@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katieve
-- 👀 I’m interested in cyber security and webdev
+- 👀 I’m interested in cyber security!
 - 🌱 I’m currently learning python and the basics of information security
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me... shoot me a message:)
